@@ -1,4 +1,0 @@
-# Nmap 7.93 scan initiated Wed Oct 26 16:34:38 2022 as: nmap -sV -sC -oA nmap 10.10.11.169
-Host: 10.10.11.169 ()	Status: Up
-Host: 10.10.11.169 ()	Ports: 22/open/tcp//ssh?///, 80/open/tcp//http//nginx 1.18.0 (Ubuntu)/	Ignored State: closed (998)
-# Nmap done at Wed Oct 26 16:37:40 2022 -- 1 IP address (1 host up) scanned in 182.24 seconds
